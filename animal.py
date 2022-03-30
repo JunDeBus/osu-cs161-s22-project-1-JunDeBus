@@ -1,7 +1,7 @@
 '''
 Author: Jun DeBus
 GitHub username: JunDeBus
-Date: 3/29/2022
+Date: 3/30/2022
 Description: Program asks for your favorite animal and returns a string stating what your favorite animal is.
 '''
 
